@@ -10,11 +10,11 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - MSSV: 2A202604042
 - Email: <huuthuytrann3004@gmail.com>
 - Link repository: <https://github.com/thuyhuutran/K5-L2B-DAY04-TranHuuThuy-2A202604042-KeypointPose-Student>
-- Phiên bản CVAT (Help → About):
+- Phiên bản CVAT (Help → About): **2.74.1**
 - Máy: hệ điều hành Window · RAM 16 GB · chạy CVAT chế độ đầy đủ / lite
 - Bộ ảnh (src/exports/assignment.json do lab.py setup tạo): có
-- Giờ bắt đầu: **17:06**
-- Giờ kết thúc:
+- Giờ bắt đầu: **17:06 (12/11/2026)**
+- Giờ kết thúc: **10:25 (13/11/2026)**
 
 ## 1. Kiểm tra label (CP0)
 
